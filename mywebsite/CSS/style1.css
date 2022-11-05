@@ -1,0 +1,62 @@
+#div1
+{
+    background-color: rgb(38, 119, 159);
+    box-shadow:inset 0px -2px 3px grey;
+    background-image:url("photos/head1.jpg")  ;
+    image-orientation: 40px 700px;
+
+}
+#div2
+{
+    box-shadow:0px 2px 3px grey;
+
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:80px;
+    margin-bottom: 0 ;
+    margin-top:10px;
+}
+h3{
+    margin:0;
+   padding: 0 0 5px;
+   text-align:center;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+#ul1
+{
+    margin:0;
+    padding: 0;
+    list-style:none;
+    background-color: rgb(139, 209, 244);
+    height:30px;
+    line-height:30px;
+    font-family:Arial, Helvetica, sans-serif ;
+    
+}
+
+.lis1
+{
+    float:left;  
+}
+
+.nav
+{
+    display :block;
+    text-decoration: none;
+    padding: 0 28px;
+    color:white;
+    border-right: 2px solid black;
+}
+
+.nav:hover
+{
+    background-color:rgb(38, 119, 159);
+}
+
+#active
+{
+    background-color:rgb(38, 119, 159) ;
+}
