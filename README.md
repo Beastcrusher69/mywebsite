@@ -1,3 +1,3 @@
-# my first ever website built and hosted
+# my first ever website hosted
 
 link-https://beastcrusher69.github.io/mywebsite/
